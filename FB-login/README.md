@@ -32,5 +32,4 @@ See the FB docs for a [complete set of scopes](https://developers.facebook.com/d
 
 ## Behold!
 
-![logged out](https://github.com/amuramoto/FB-Sample-Apps/raw/master/FB-login/images/Screen%20Shot%202017-11-28%20at%204.34.29%20PM.png)
-![logged in](https://github.com/amuramoto/FB-Sample-Apps/raw/master/FB-login/images/Screen%20Shot%202017-11-28%20at%204.34.09%20PM.png)
+<h4 align="center"><img src="https://github.com/amuramoto/FB-Sample-Apps/raw/master/FB-login/images/Screen%20Shot%202017-11-28%20at%204.34.29%20PM.png" alt="logged out" /> <img src="https://github.com/amuramoto/FB-Sample-Apps/raw/master/FB-login/images/Screen%20Shot%202017-11-28%20at%204.34.09%20PM.png" alt="logged in" /></h4>
