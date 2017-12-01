@@ -5,14 +5,15 @@ This is a simple example app that shows how to use the FB Login button widget.
 ## Running this Sample
 
 1. Download it.
-2. Run `npm install`
-3. Run `node index.js` to start server of localhost
-4. Open `index.html` in your browser
-5. Click the button!
+2. Set your site domain in app setting (see below)
+3. Run `npm install`
+4. Run `node index.js` to start server of localhost
+5. Open `index.html` in your browser
+6. Click the button!
 
-### Running on Localhost
+### Setting Your Site Domain
 
-To run this on localhost, do the following in your FB app settings:
+To run this on your website, do the following in your FB app settings (localhost used as an example):
 
 1. In 'Settings' > 'Basic', click '+Add Platform'
 2. Click 'Website'
