@@ -6,6 +6,6 @@ I hope you find them helpful! :heart:
 
 ## FB Login
 
-Simple implementation of the [FB Login button widget](https://developers.facebook.com/docs/facebook-login/web/login-button), available via the Facebook JS SDK.
+<h4 align="center"><img src="https://github.com/amuramoto/FB-Sample-Apps/raw/master/FB-login/images/Screen%20Shot%202017-11-28%20at%204.34.09%20PM.png" alt="screenshot"/></h4>
 
-![logged in](https://github.com/amuramoto/FB-Sample-Apps/raw/master/FB-login/images/Screen%20Shot%202017-11-28%20at%204.34.09%20PM.png)
+Simple implementation of the [FB Login button widget](https://developers.facebook.com/docs/facebook-login/web/login-button), available via the Facebook JS SDK.
